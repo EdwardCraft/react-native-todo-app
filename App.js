@@ -1,5 +1,5 @@
 import ListTodo from "./src/Screens/ListTodo";
 
-export default function App() {
-  return <ListTodo />;
-}
+const App = () => <ListTodo />;
+
+export default App;
