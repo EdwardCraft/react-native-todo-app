@@ -14,8 +14,7 @@ A simple mobile app built with React Native to manage your tasks and todos.
 
 ## Features
 
-- Add, edit, and delete tasks.
-- Mark tasks as completed.
+- Add tasks.
 - User-friendly and intuitive interface.
 - Cross-platform (iOS and Android) compatibility.
 
